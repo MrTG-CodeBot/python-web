@@ -56,7 +56,7 @@ Before running the application, ensure you have the following installed:
 4.  **Install Flask:**
 
     ```bash
-    pip install Flask
+    pip install flask
     ```
 
 ## How to Run the Application
