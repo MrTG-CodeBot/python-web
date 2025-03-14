@@ -33,27 +33,7 @@ Before running the application, ensure you have the following installed:
     cd python-web
     ```
 
-2.  **Create a virtual environment (recommended):**
-
-    ```bash
-    python -m venv venv
-    ```
-
-3.  **Activate the virtual environment:**
-
-    -   **On Windows:**
-
-        ```bash
-        venv\Scripts\activate
-        ```
-
-    -   **On macOS and Linux:**
-
-        ```bash
-        source venv/bin/activate
-        ```
-
-4.  **Install Flask:**
+2.  **Install Flask:**
 
     ```bash
     pip install flask
