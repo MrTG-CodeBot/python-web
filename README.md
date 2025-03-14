@@ -4,6 +4,7 @@ This repository contains a simple Flask web application with two routes: `/home`
 
 ## Project Structure
 
+
 ├── app.py
 ├── templates/
 │   ├── index.html
@@ -30,8 +31,8 @@ Before running the application, ensure you have the following installed:
 1.  **Clone the repository (if applicable):**
 
     ```bash
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/MrTG-CodeBot/python-web
+    cd python-web
     ```
 
 2.  **Create a virtual environment (recommended):**
@@ -65,7 +66,7 @@ Before running the application, ensure you have the following installed:
 1.  **Navigate to the project directory:**
 
     ```bash
-    cd <repository_directory>
+    cd python-web
     ```
 
 2.  **Run the Flask application:**
