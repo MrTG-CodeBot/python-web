@@ -4,14 +4,11 @@ This repository contains a simple Flask web application with two routes: `/home`
 
 ## Project Structure
 
-
 ├── app.py
 ├── templates/
 │   ├── index.html
 │   └── about.html
 └── README.md
-
-
 
 -   `app.py`: Contains the Flask application logic and route definitions.
 -   `templates/`: Directory containing the HTML templates for the web pages.
