@@ -6,8 +6,8 @@ This repository contains a simple Flask web application with two routes: `/home`
 
 ├── app.py  
 ├── templates/  
-│   ├── index.html  
-│   └── about.html  
+  │   ├── index.html  
+  │   └── about.html  
 └── README.md
 
 
